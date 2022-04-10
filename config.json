@@ -1,0 +1,18 @@
+{
+    "token": "OTU3NzM1NjA1NDE1MDcxODY1.YkDGyg.x_pubBiyugFGJPUUtGDshscE4C0",
+    "prefix": "$",
+    "status": "Dev by 2$py#6495",
+    "suburl": {
+        "https://discord.com/api/webhooks/958099709925396512/PDCPzFWILxoBOnANtXKKYkPxhltfaxKZGKifvirzbl_cvqK6Xbf98XmhqWYC9qptvs9h": {
+            "url": "https://www.vinted.fr/vetements?search_text=&catalog[]=2050&catalog[]=5&currency=EUR&search_id=4898625797&order=newest_first&size_id[]=207&size_id[]=208&size_id[]=209&brand_id[]=573&brand_id[]=53&price_from=0&price_to=25",
+            "salon": "nike"
+        },
+        "https://discord.com/api/webhooks/958111143480680498/cH1q7R80UWBOEq8K85hoXVOOHxzsPJv04FKSZU9eRb6E4t9MrOV5IzHewbKScK0DqYAY": {
+            "url": "https://www.vinted.fr/vetements?search_text=&catalog[]=2050&catalog[]=5&currency=EUR&search_id=4898625797&order=newest_first&size_id[]=207&size_id[]=208&size_id[]=209&brand_id[]=304&brand_id[]=677891",
+            "salon": "lacoste"
+        }
+    },
+    "scripts":{
+        "start": "python loadsub.py"
+    }
+}
